@@ -1,4 +1,4 @@
-![Screenshot](thumbnail.png)
+[![Screenshot](thumbnail.png)](http://hurrymaplelad.com/space-shootemup/)
 
 <table class="controls">
   <caption>Controls:</caption>
